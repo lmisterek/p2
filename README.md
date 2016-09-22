@@ -7,7 +7,7 @@
 This site works as a password generator.  The user can choose from 4-7 words to create a password.  The user may also choose whether or not to include a symbol .
 
 ## Demo
-
+<https://www.youtube.com/watch?v=NwWVnLh1Elw&feature=youtu.be&hd=1>
 
 ## Details for teaching team
 No login required.
