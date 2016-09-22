@@ -11,6 +11,9 @@ This site works as a password generator.  The user can choose from 4-7 words to 
 
 ## Details for teaching team
 No login required.
+I did not have a lot of commits in this repository because the p2 repository in github
+was recently created.  Before that I was working in Portfolio/p2 in github.  However,
+I read that each project should have its own repository so I created a new one.
 
 
 ## Outside code
